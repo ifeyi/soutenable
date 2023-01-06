@@ -744,7 +744,11 @@ header #soutzY, header #soutzZ{
 #soutzODDText h3{
     margin-bottom: 1rem;
 }
-#soutzODDList img{
+#soutzODDList a{
+    width: 100%;
+    display: block;
+}
+#soutzODDList a img{
     width: 100%;
     border-radius: 20%;
 }
